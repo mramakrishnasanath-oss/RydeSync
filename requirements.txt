@@ -1,0 +1,14 @@
+# RideSync - Dependencies
+# Python Digital Foundation Track (Python 3.12 / 3.13)
+
+# Database Drivers
+pyodbc>=5.1.0
+pymongo>=4.8.0
+
+# Testing & Linting
+pytest>=8.0.0
+flake8>=7.0.0
+
+# Optional Data Analysis (Available in Environment)
+pandas>=2.2.0
+openpyxl>=3.1.5
